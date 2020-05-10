@@ -11,7 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-123-45"
-disqusShortname = "sys4dm1npub"
+disqusShortname = "https://disqus.com/sys4dm1npub/"
 
 [taxonomies]
 	tag = "tags"
