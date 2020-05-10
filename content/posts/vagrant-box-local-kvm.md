@@ -4,6 +4,7 @@ title = "Box local no Vagrant com KVM(Libvirt)"
 date = 2020-05-07T16:18:36-03:00
 description = "Crie localmente suas próprias Boxes no Vagrant com KVM(libvirt)"
 draft =  false
+comment = true
 tags = [
     "Vagrant",
     "KVM",
@@ -50,7 +51,7 @@ Plugin do *Vagrant*:
 
 ## Preparando o ambiente
 
-Iremos dividir em duas etapas o procedimento para criação das *boxes* localmente. A primeira etapa será para criação e configuração da máquina virtual que será usada como *template* para a *box*. Já a segunda etapa será a preparação do ambiente para o *Vagrant* convertendo o disco da VM em uma image para a *box*.
+Iremos dividir em duas etapas o procedimento para criação das *boxes* localmente. A primeira etapa será para criação e configuração da máquina virtual que será usada como *template* para a *box*. Já a segunda etapa será a preparação do ambiente para o *Vagrant* convertendo o disco da VM em uma *image* para a *box*.
 
 ### 1ª Etapa 
 
