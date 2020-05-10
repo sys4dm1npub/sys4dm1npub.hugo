@@ -29,6 +29,9 @@ disqusShortname = "sys4dm1npub"
 
 	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 
+[params.comments]
+enable=true
+
 # Nav.
 [[menu.main]]
 name = "Home"
