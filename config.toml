@@ -25,7 +25,7 @@ disqusShortname = "sys4dm1npub"
 	avatar = "/img/choice.jpg"
 
 	# Content types to disable Disqus on.
-	# disableDisqusTypes = ["page"]
+	disableDisqusTypes = ["page"]
 
 	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 
