@@ -4,7 +4,6 @@ title = "Box local no Vagrant com KVM(Libvirt)"
 date = 2020-05-07T16:18:36-03:00
 description = "Crie localmente suas próprias Boxes no Vagrant com KVM(libvirt)"
 draft =  false
-comment = true
 tags = [
     "Vagrant",
     "KVM",
