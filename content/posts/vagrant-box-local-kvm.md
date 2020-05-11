@@ -94,7 +94,7 @@ Gere o par de chaves da seguinte maneira:
 $ ssh-keygen -t rsa -b 2048 -q -f $HOME/.ssh/vagrant/vagrant_key -C 'vagrant' -N ''
 ```
 
-Agora iremos criar o diretório `.ssh` no `home` do usuário `vagrant` para o arquivo `authorized_keys`, dar as devidas permissões e copiar a chave criada no passo anterior no *Host* (sua estação de trabalho) esse diretório na VM:
+Agora iremos criar o diretório `.ssh` no `home` do usuário `vagrant` para o arquivo `authorized_keys`, dar as devidas permissões e copiar a chave criada no passo anterior no *Host* (sua estação de trabalho) para o diretório criado na VM:
 
 ```
 ssh -l root IP-DA-VM \
