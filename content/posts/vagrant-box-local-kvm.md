@@ -289,7 +289,7 @@ end
 EOF
 ```
 
-OBS: Com essa configuração o Vagrant por padrão criará um compartilhamento *NFS* entre o diretório do projeto(mylabs) e a pasta /vagrant dentro da VM (*<cite>synced folders[^11]</cite>**), detalhe é necessário que o usuário local do seu sistema esteja também com o sudo configurado para o compartilhamento funcionar.
+OBS: Com essa configuração o Vagrant por padrão criará um compartilhamento *NFS* entre o diretório do projeto(mylabs) e a pasta /vagrant dentro da VM (*<cite>synced folders[^11]</cite>*), detalhe é necessário que o usuário local do seu sistema esteja também com o sudo configurado para o compartilhamento funcionar.
 
 [^11]: https://www.vagrantup.com/docs/synced-folders/
 
