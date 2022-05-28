@@ -120,7 +120,7 @@ Revisando/Alterando os seguintes parâmetros conforme abaixo:
 ```
 PermitRootLogin no
 
-PubKeyAuthentication yes
+PubkeyAuthentication yes
 
 AuthorizedKeysFile %h/.ssh/authorized_keys
 
